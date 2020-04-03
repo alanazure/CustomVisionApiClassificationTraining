@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomVisionApiClassificationTraining.Complete", "CustomVisionApiClassificationTraining.Complete\CustomVisionApiClassificationTraining.Complete.csproj", "{AE2FDB72-4B9B-4560-B6AA-2E9ADEB289BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE2FDB72-4B9B-4560-B6AA-2E9ADEB289BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2FDB72-4B9B-4560-B6AA-2E9ADEB289BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2FDB72-4B9B-4560-B6AA-2E9ADEB289BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2FDB72-4B9B-4560-B6AA-2E9ADEB289BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B25A245-5856-4B88-AE8D-5B25A1D3BB44}
+	EndGlobalSection
+EndGlobal
